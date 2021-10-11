@@ -2,7 +2,7 @@ Win64
 PlayerPath?
 C:/Users/user/Documents/Repository/Game Programming/Angry Bird/Build/Angrry Bird.exe
 SceneListBegin?
-Assets/Scenes/Main.unity
+Assets/Scenes/Level 2.unity
 SceneListEnd?
 c97ddc9a6b1a9015b2d9acbec6c29bf0 Assembly-CSharp.dll:.GameController
 984dcc0ba3707b7691fbdca8ff508d28 Unity.TextMeshPro.dll:TMPro.TMP_SelectionCaret
